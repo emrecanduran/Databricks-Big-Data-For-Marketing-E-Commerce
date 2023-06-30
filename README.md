@@ -37,7 +37,7 @@ Random Forest
 
 Gradient Boosting Classifier 
 
-Additionally, Hypothesis testing is applied for the features.
+Additionally, Hypothesis testing by using Chi-square is applied to the features.
 
 The models will be trained to predict the probability of customer reorders based on the available features. Finally, we will evaluate the models' performance and draw meaningful conclusions to guide Hunter's E-grocery in optimizing its marketing campaigns.
 By following this approach, we aim to provide valuable insights into customer reorder behavior and enable Hunter's E-grocery to make data-driven decisions, enhancing customer satisfaction and driving business growth.
