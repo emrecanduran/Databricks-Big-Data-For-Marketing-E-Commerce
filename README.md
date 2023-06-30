@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-mark
 
 ## Model Building
 
-To achieve our objective, I will follow a systematic approach that involves several stages. I will begin by preparing the data, cleaning and organizing it for analysis. Next, I will perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once we have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
+To achieve our objective, I will follow a systematic approach that involves several stages. I will begin by preparing the data, cleaning and organizing it for analysis. Next, I will perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
 
 Logistic Regression
 
