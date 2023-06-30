@@ -1,6 +1,6 @@
 # Databricks-Big-Data-For-Marketing-E-Commerce-Data
 
-# Wonderful Wines Of The World 
+# E-Commerce Data 
 
 In this project, we aim to predict whether the next customer will make a reorder or not for Hunter's E-grocery, a prominent French brand in the e-grocery and lifestyle products industry. By leveraging the power of big data analytics, I will explore customer behavior patterns and develop a predictive model to optimize marketing campaigns and reduce expenses.
 
