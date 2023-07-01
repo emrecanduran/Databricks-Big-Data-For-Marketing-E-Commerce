@@ -8,7 +8,7 @@ I will be working with a comprehensive dataset that captures various aspects of 
 
 The dataset used for this project contains the following variables:
 
-ECommerce_consumer_behaviour.csv dataset (2019501 data)
+ECommerce_consumer_behaviour.csv dataset (2019501)
 
 https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023
 
