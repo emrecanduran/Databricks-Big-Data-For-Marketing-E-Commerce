@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-mark
 
 To achieve the objective, it is followed a systematic approach that involves several stages. It is started by preparing the data, cleaning, and organizing it for analysis. Next, perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
 
---------
+-
 
  Logistic Regression
 
@@ -37,7 +37,7 @@ To achieve the objective, it is followed a systematic approach that involves sev
 
  Gradient Boosting Classifier 
  
- -------
+ -
 
 Additionally, Hypothesis testing by using Chi-square is applied to the features to understand their importance for our dependent column.
 
