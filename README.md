@@ -1,10 +1,8 @@
-# Databricks-Big-Data-For-Marketing-E-Commerce-Data
-
 # E-Commerce Data 
 
-In this project, we aim to predict whether the next customer will make a reorder or not for Hunter's E-grocery, a prominent French brand in the e-grocery and lifestyle products industry. By leveraging the power of big data analytics, I will explore customer behavior patterns and develop a predictive model to optimize marketing campaigns and reduce expenses.
+In this project, the aim is to predict whether the next customer will make a reorder or not for Hunter's E-grocery, a prominent French brand in the e-grocery and lifestyle products industry. By leveraging the power of big data analytics, I will explore customer behavior patterns and develop a predictive model to optimize marketing campaigns and reduce expenses.
 
-I will be working with a comprehensive dataset that captures various aspects of customer orders. The dataset includes information such as order IDs, user IDs, order numbers, the day of the week the order was placed, the hour of the day the order was placed, the number of days since the user's previous order, product IDs, the order in which products were added to the cart, department IDs, and more. Most importantly, the dataset provides a binary indicator, the "reordered" column, which tells us whether a particular product has been ordered by the user in the past.
+I will be working with a comprehensive dataset that captures various aspects of customer orders. The dataset includes information such as order IDs, user IDs, order numbers, the day of the week the order was placed, the hour of the day the order was placed, the number of days since the user's previous order, product IDs, the order in which products were added to the cart, department IDs, and more. Most importantly, the dataset provides a binary indicator, the "reordered" column, which tells whether a particular product has been ordered by the user in the past.
 
 ## Dataset
 
@@ -29,7 +27,7 @@ https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-mark
 
 ## Model Building
 
-To achieve our objective, I will follow a systematic approach that involves several stages. I will begin by preparing the data, cleaning and organizing it for analysis. Next, I will perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
+To achieve the objective, it is followed a systematic approach that involves several stages. It is started by preparing the data, cleaning, and organizing it for analysis. Next, perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
 
 Logistic Regression
 
@@ -37,10 +35,10 @@ Random Forest
 
 Gradient Boosting Classifier 
 
-Additionally, Hypothesis testing by using Chi-square is applied to the features.
+Additionally, Hypothesis testing by using Chi-square is applied to the features to understand their importance for our dependent column.
 
-The models will be trained to predict the probability of customer reorders based on the available features. Finally, we will evaluate the models' performance and draw meaningful conclusions to guide Hunter's E-grocery in optimizing its marketing campaigns.
-By following this approach, we aim to provide valuable insights into customer reorder behavior and enable Hunter's E-grocery to make data-driven decisions, enhancing customer satisfaction and driving business growth.
+The models are trained to predict the probability of customer reorders based on the available features. Finally, the model's performance will be evaluated, and draw meaningful conclusions to guide Hunter's E-grocery in optimizing its marketing campaigns.
+Following this approach is aimed to provide valuable insights into customer reorder behavior and enable Hunter's E-grocery to make data-driven decisions, enhancing customer satisfaction and driving business growth.
 
 ## Usage
 
