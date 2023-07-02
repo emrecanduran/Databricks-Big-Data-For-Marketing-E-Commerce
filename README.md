@@ -1,6 +1,6 @@
-## Databricks-Big-Data-For-Marketing-E-Commerce
+### Databricks-Big-Data-For-Marketing-E-Commerce
 
-# E-Commerce Data 
+## E-Commerce Data 
 
 In this project, the aim is to predict whether the next customer will make a reorder or not for Hunter's E-grocery, a prominent French brand in the e-grocery and lifestyle products industry. By leveraging the power of big data analytics, I will explore customer behavior patterns and develop a predictive model to optimize marketing campaigns and reduce expenses.
 
@@ -29,7 +29,7 @@ https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-mark
 
 ## Model Building
 
-To achieve the objective, it is followed a systematic approach that involves several stages. It is started by preparing the data, cleaning, and organizing it for analysis. Next, perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
+It follows a systematic approach that involves several stages to achieve the objective. It is started by preparing the data, cleaning, and organizing it for analysis. Next, perform exploratory data analysis (EDA) to gain insights into the dataset and identify any patterns or trends. Once I have a thorough understanding of the data, I will proceed to train and evaluate predictive models using machine learning techniques such as:
 
 
 
@@ -44,7 +44,7 @@ To achieve the objective, it is followed a systematic approach that involves sev
 Additionally, Hypothesis testing by using Chi-square is applied to the features to understand their importance for our dependent column.
 
 The models are trained to predict the probability of customer reorders based on the available features. Finally, the model's performance will be evaluated, and draw meaningful conclusions to guide Hunter's E-grocery in optimizing its marketing campaigns.
-Following this approach is aimed to provide valuable insights into customer reorder behavior and enable Hunter's E-grocery to make data-driven decisions, enhancing customer satisfaction and driving business growth.
+This approach aims to provide valuable insights into customer reorder behavior and enable Hunter's E-grocery to make data-driven decisions, enhancing customer satisfaction and driving business growth.
 
 ## Usage
 
